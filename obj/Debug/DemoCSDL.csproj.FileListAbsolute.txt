@@ -1,0 +1,119 @@
+D:\DataD\c#\DemoCSDL\bin\Debug\DemoCSDL.exe.config
+D:\DataD\c#\DemoCSDL\bin\Debug\DemoCSDL.exe
+D:\DataD\c#\DemoCSDL\bin\Debug\DemoCSDL.pdb
+D:\DataD\c#\DemoCSDL\bin\Debug\Guna.UI2.dll
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.csproj.AssemblyReference.cache
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.FLogin.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.Properties.Resources.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.csproj.GenerateResource.cache
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.csproj.CoreCompileInputs.cache
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.csproj.Up2Date
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.exe
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.pdb
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.Forms.FLoading.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.Forms.FWorker.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.WorkerChildForms.FWMenu.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.WorkerChildForms.FWinformation.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.Forms.FForgotPassword.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.UserControls.WProduct.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.WorkerChildForms.FWContainProduct.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.Forms.FManager.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.ManagerChildForms.FMDashboard.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.UserControls.MStaffInfoInDash.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.UserControls.WProductInOrder.resources
+D:\DataD\c#\DemoCSDL\obj\Debug\DemoCSDL.ManagerChildForms.FMAddProduct.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\DemoCSDL.exe.config
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\DemoCSDL.exe
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\DemoCSDL.pdb
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\Guna.UI2.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.csproj.AssemblyReference.cache
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.FLogin.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.Forms.FLoading.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.Forms.FManager.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.Forms.FWorker.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMAddProduct.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMDashboard.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.Properties.Resources.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.UserControls.MStaffInfoInDash.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.UserControls.WProduct.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.UserControls.WProductInOrder.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.WorkerChildForms.FWContainProduct.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.WorkerChildForms.FWinformation.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.WorkerChildForms.FWMenu.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.csproj.GenerateResource.cache
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.csproj.CoreCompileInputs.cache
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.csproj.Up2Date
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.exe
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.pdb
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMWarehouse.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMinformation.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMShift.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.WorkerChildForms.FWShift.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.FWThanhToan.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\EnvDTE.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\stdole.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\WorkerChildForms\FWThanhToan.resx
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\WorkerChildForms\FWThanhToan.cs
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\WorkerChildForms\FWThanhToan.Designer.cs
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMPersonnelManagement.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.Forms.FRegister.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMBill.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMProcessing.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.UserControls.MIngredient.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMIngredients.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\obj\Debug\DemoCSDL.ManagerChildForms.FMNProcessing.resources
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\EntityFramework.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\EntityFramework.xml
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tai lieu hoc\PJHQLCSDL\HQTCSDL_QUANLYCOFFEE\bin\Debug\RCTHoaDon.rdlc
